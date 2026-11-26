@@ -34,11 +34,11 @@ stock = ["7967","2344","009827"]
 
 	    # bot token
 
-	    token = "9072655133:AAH-ojVK_JXpnC-erNTINW2AQWhnP31P_ls"
+	    token = "9191219101:AAGFd1DStUt_4yydLyd8JLbI-VWhsjAY9M4"
 
 	    # 使用者 id
 
-	    chat_id="@stock516888_bot"
+	    chat_id="9027536949"
 
 	    # bot 送訊息
 
