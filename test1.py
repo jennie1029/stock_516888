@@ -10,8 +10,8 @@ stock = ["7967", "2344", "009827"]
 
 # Telegram Bot 設定
 # 建議將 Token 和 Chat ID 設定在 GitHub Secrets
-token = os.getenv("9191219101:AAGFd1DStUt_4yydLyd8JLbI-VWhsjAY9M4")
-chat_id = os.getenv("9027536949")
+token = os.getenv("TELEGRAM_BOT_TOKEN")
+chat_id = os.getenv("TELEGRAM_CHAT_ID")
 
 # 檢查 Telegram 設定
 if not token or not chat_id:
